@@ -1,0 +1,151 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    
+    #myForm #name, #email, #username,
+    #website
+    /* #myForm input */
+    {
+      /* border: 1px solid white; */
+      display: flex;
+      margin-left:20px;
+      margin-bottom: 20px;
+      height: 35px;
+      width: 90%;
+      background-color: transparent;
+      outline: none;
+      color: white;
+      text-indent: 10px;
+      font-size: 25px;
+    
+    }
+    label {
+      margin-left: 20px;
+      margin-top: 5px;
+      font-size: 25px;
+    
+    }
+    
+    .fInput {
+    
+      margin-top: 90px;
+      margin-left: auto;
+      margin-right: auto;
+      height: 700px;
+      width: 700px;
+      background-color: #24292e;
+      color: white;
+      align-items: center;
+    }
+    
+    h1 {
+      padding: 20px;
+      text-align: center;
+    
+    }
+    .submit {
+      margin-left: 250px;
+      height: 35px;
+      width: 200px;
+      background-color: transparent;
+      color: white;
+      border: 1px solid white;
+      outline: none;
+      cursor: pointer;
+    
+    }
+    
+    .borderRed {
+      border: 1px solid red;
+    
+    }
+    .borderWhite {
+      border: 1px solid white;
+    }
+    .label-red {
+      color: red;
+    }
+    
+    .displayNone {
+      display: none;
+    
+    }
+    p {
+      padding: 20px;
+      text-align: center;
+      font-size: 25px;
+    
+    }
+     #pass, #conPass {
+       background-color: transparent;
+       outline: none;
+       color: white;
+       text-indent: 10px;
+       font-size: 25px;
+
+     }
+      /* display: flex;
+      margin-left:20px;
+      margin-bottom: 20px;
+      height: 35px;
+      width: 90%;
+      background-color: transparent;
+      outline: none;
+      color: white; */
+      /* text-indent: 10px; */
+      /* font-size: 25px; */
+    
+
+      /* background-color: black; */
+    
+    /* } */
+
+    .btnShow {
+      font-size: 10px;
+      background-color: transparent;  
+
+      
+      
+    }
+    .btnClass {
+      display: flex;
+      margin-left:20px;
+      margin-bottom: 20px;
+      height: 35px;
+      width: 90%;
+      background-color: transparent;
+      outline: none;
+      color: white;
+      text-indent: 10px;
+      font-size: 25px;
+      border: 1px solid white;
+      
+
+
+      
+
+
+
+
+    }
+
+    .borderPassword {
+      /* width: 90%;
+      outline: none; */
+
+      display: flex;
+      margin-left:20px;
+      margin-bottom: 20px;
+      height: 35px;
+      width: 90%;
+      background-color: transparent;
+      outline: none;
+      color: white;
+      text-indent: 10px;
+      font-size: 25px;
+
+      border: 2px solid red;
+
+    }
